@@ -143,7 +143,7 @@ nav {
 
 .contenido-header a {
     margin: 28px 0 0 0;
-    width: 130px;
+    width: 180px;
     display: inline-block;
     background: #1FDE82;
     text-align: center;
@@ -151,9 +151,8 @@ nav {
     padding: 12px 0;
     text-decoration: none;
     font-weight: 400;
-    text-transform: uppercase;
     font-size: 14px;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0 8px 32px rgba(31, 222, 130, .46);
 }
 
